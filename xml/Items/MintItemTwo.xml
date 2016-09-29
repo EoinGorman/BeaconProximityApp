@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/mintPlaceHolderImage.jpg?raw=true</ImageSource>
+<ImageSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/audio/testAudio.mp3</ImageSource>
 <Name>Mint Item Two</Name>
 <Description>This Item is Associated with the "mint" Beacon.
 This is a placeholder description for this item.</Description>
