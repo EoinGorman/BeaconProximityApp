@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/icePlaceHolderImage.jpg?raw=true</ImageSource>
+<VideoSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/videos/testVideo.mp4</VideoSource>
 <Name>Ice Item One</Name>
 <Description>This Item is Associated with the "ice" Beacon.
 This is a placeholder description for this item.</Description>
