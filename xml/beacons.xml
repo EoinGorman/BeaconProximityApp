@@ -5,26 +5,26 @@
 		<UUID>B9407F30-F5F8-466E-AFF9-25556B57FE6D</UUID>
 		<MajorNumber>47226</MajorNumber>
 		<MinorNumber>43389</MinorNumber>
-		<Item>Blue Item One</Item>
-		<Item>Blue Item Two</Item>
-		<Item>Blue Item Three</Item>
-		<Item>Blue Item Four</Item>
+		<Item>The Liberty Bell</Item>
+		<Item>Irish Parliament Building</Item>
+		<Item>Parade Shield</Item>
+		<Item>Lewis Chessmen</Item>
 	</Beacon>
 	<Beacon>
 		<Name>mint</Name>
 		<UUID>B9407F30-F5F8-466E-AFF9-25556B57FE6D</UUID>
 		<MajorNumber>21958</MajorNumber>
 		<MinorNumber>49768</MinorNumber>
-		<Item>Mint Item One</Item>
-		<Item>Mint Item Two</Item>
+		<Item>Drowning Girl - Roy Lichtenstein</Item>
+		<Item>The Fall of the Rebel Angels - Pieter Bruegel the Elder</Item>
 	</Beacon>
 	<Beacon>
 		<Name>ice</Name>
 		<UUID>B9407F30-F5F8-466E-AFF9-25556B57FE6D</UUID>
 		<MajorNumber>33598</MajorNumber>
 		<MinorNumber>62551</MinorNumber>
-		<Item>Ice Item One</Item>
-		<Item>Ice Item Two</Item>
-		<Item>Ice Item Three</Item>
+		<Item>Space Archaeology</Item>
+		<Item>Blind Cavefish</Item>
+		<Item>Electric Skateboard</Item>
 	</Beacon>
 </Beacons>
