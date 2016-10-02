@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AudioSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/audio/testAudio.mp3</AudioSource>
-<Name>Mint Item Two</Name>
-<Description>This Item is Associated with the "mint" Beacon.
-This is a placeholder description for this item.</Description>
+<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/fallOfTheRebelAngels.jpg?raw=true</ImageSource>
+<AudioSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/audio/fallOfTheRebelAngels.mp3</AudioSource>
+<Name>The Fall of the Rebel Angels - Pieter Bruegel the Elder</Name>
+<Description>The painting depicts Michael the Archangel casting Lucifer and his followers from Heaven. 
+	Bruegel adopts many of Bosch’s motifs, but also differentiates himself by including a whole new imagery reflecting the knowledge of the day, for example. This work may have been commissioned by a member of the ruling Habsburg dynasty in Brussels.</Description>

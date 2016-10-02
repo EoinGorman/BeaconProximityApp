@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<VideoSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/videos/testVideo.mp4</VideoSource>
-<Name>Ice Item One</Name>
-<Description>This Item is Associated with the "ice" Beacon.
-This is a placeholder description for this item.</Description>
+<VideoSource>https://raw.githubusercontent.com/EoinGorman/BeaconProximityApp/master/videos/sarahParcak.mp4</VideoSource>
+<Name>Space Archaeology</Name>
+<Description>In this short talk, TED Fellow Sarah Parcak introduces the field of "space archaeology" — using satellite images to search for clues to the lost sites of past civilizations.</Description>

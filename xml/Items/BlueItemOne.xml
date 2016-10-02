@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/bluePlaceHolderImage.jpg?raw=true</ImageSource>
-<Name>Blue Item One</Name>
-<Description>This Item is Associated with the "blueberry" Beacon.
-This is a placeholder description for this item.</Description>
+<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/libertyBell.jpg?raw=true</ImageSource>
+<Name>The Liberty Bell</Name>
+<Description>The Liberty Bell is an iconic symbol of American independence, located in Philadelphia, Pennsylvania. Formerly placed in the steeple of the Pennsylvania State House (now renamed Independence Hall), the bell today is located in the Liberty Bell Center in Independence National Historical Park. The bell was commissioned from the London firm of Lester and Pack (today the Whitechapel Bell Foundry) in 1752, and was cast with the lettering "Proclaim LIBERTY throughout all the land unto all the inhabitants thereof," a Biblical reference from the Book of Leviticus (25:10). The bell first cracked when rung after its arrival in Philadelphia, and was twice recast by local workmen John Pass and John Stow, whose last names appear on the bell. In its early years, the Liberty Bell was used to summon lawmakers to legislative sessions and to alert citizens to public meetings and proclamations.</Description>

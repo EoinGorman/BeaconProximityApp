@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/bluePlaceHolderImage.jpg?raw=true</ImageSource>
-<Name>Blue Item Two</Name>
-<Description>This Item is Associated with the "blueberry" Beacon.
-This is a placeholder description for this item.</Description>
+<ImageSource>https://github.com/EoinGorman/BeaconProximityApp/blob/master/images/irishParliamentBuilding.jpg?raw=true</ImageSource>
+<Name>Irish Parliament Building</Name>
+<Description>The Irish Houses of Parliament, also known as the Irish Parliament House, today called the Bank of Ireland, College Green, due to its use by the bank, was the world's first purpose-built two-chamber parliament house. It served as the seat of both chambers (the Lords and Commons) of the Irish Parliament of the Kingdom of Ireland for most of the 18th century until that parliament was abolished by the Act of Union of 1800, when Ireland became part of the United Kingdom of Great Britain and Ireland.</Description>
