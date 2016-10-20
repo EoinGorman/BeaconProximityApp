@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings>
+	<DownloadCOunt>22</DownloadCount>
 	<UnlockPin>1704</UnlockPin>
 	<Beacons>
 		<Beacon>
